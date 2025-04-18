@@ -221,7 +221,7 @@ The function accepts the following `options`:
 
 ## Notes
 
--   Setting the `keepdims` option to `true` can be useful when wanting to ensure that the output [ndarray][@stdlib/ndarray/ctor] is [broadcast-compatible][@stdlib/ndarray/base/broadcast-shapes] with ndarrays having the same shape as the input [ndarray][@stdlib/ndarray/ctor].
+-   Setting `keepdims` to `true` can be useful when wanting to ensure that the output [ndarray][@stdlib/ndarray/ctor] is [broadcast-compatible][@stdlib/ndarray/base/broadcast-shapes] with ndarrays having the same shape as the input [ndarray][@stdlib/ndarray/ctor].
 -   The output data type [policy][@stdlib/ndarray/output-dtype-policies] only applies to the main function and specifies that, by default, the function must return an [ndarray][@stdlib/ndarray/ctor] having the same [data type][@stdlib/ndarray/dtypes] as the input [ndarray][@stdlib/ndarray/ctor]. For the `assign` method, the output [ndarray][@stdlib/ndarray/ctor] is allowed to have any [data type][@stdlib/ndarray/dtypes].
 
 </section>
@@ -294,11 +294,6 @@ For more information on the project, filing bug reports and feature requests, an
 
 ---
 
-## License
-
-See [LICENSE][stdlib-license].
-
-
 ## Copyright
 
 Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
@@ -344,8 +339,6 @@ Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 [esm-url]: https://github.com/stdlib-js/stats-max/tree/esm
 [esm-readme]: https://github.com/stdlib-js/stats-max/blob/esm/README.md
 [branches-url]: https://github.com/stdlib-js/stats-max/blob/main/branches.md
-
-[stdlib-license]: https://raw.githubusercontent.com/stdlib-js/stats-max/main/LICENSE
 
 [@stdlib/ndarray/ctor]: https://github.com/stdlib-js/ndarray-ctor
 
