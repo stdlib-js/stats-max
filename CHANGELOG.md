@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`a130c9b`](https://github.com/stdlib-js/stdlib/commit/a130c9ba44e6d92845acb45cad234a3db9878aeb) - **docs:** update copy _(by Athan Reines)_
 -   [`2b72de1`](https://github.com/stdlib-js/stdlib/commit/2b72de1620d65697b061c0c991d0a57fbde03d65) - **docs:** update markup _(by Athan Reines)_
 -   [`8d357b1`](https://github.com/stdlib-js/stdlib/commit/8d357b161a52fc08d985c5cebc788b5bb0847f73) - **feat:** add `stats/max` _(by Athan Reines)_
 
