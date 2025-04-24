@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-04-23)
+## Unreleased (2025-04-24)
 
 <section class="features">
 
@@ -16,12 +16,23 @@
 
 <!-- /.features -->
 
+<section class="bug-fixes">
+
+### Bug Fixes
+
+-   [`241d973`](https://github.com/stdlib-js/stdlib/commit/241d9733f1c33c635badfb7f801125988c12b1e8) - update dispatch table
+
+</section>
+
+<!-- /.bug-fixes -->
+
 <section class="commits">
 
 ### Commits
 
 <details>
 
+-   [`241d973`](https://github.com/stdlib-js/stdlib/commit/241d9733f1c33c635badfb7f801125988c12b1e8) - **fix:** update dispatch table _(by Athan Reines)_
 -   [`b1fd89f`](https://github.com/stdlib-js/stdlib/commit/b1fd89faa0db6a1eb7b5f55b753130454ba0b7a3) - **refactor:** update import path _(by Athan Reines)_
 -   [`74e258d`](https://github.com/stdlib-js/stdlib/commit/74e258d30fcf441681f766870718974685e2495d) - **style:** use consistent markup _(by Athan Reines)_
 -   [`500f342`](https://github.com/stdlib-js/stdlib/commit/500f342f03ea25f7c461d2d94fcdf9dbae8cb800) - **docs:** update copy _(by Athan Reines)_
