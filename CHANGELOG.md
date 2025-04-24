@@ -32,6 +32,7 @@
 
 <details>
 
+-   [`75f4595`](https://github.com/stdlib-js/stdlib/commit/75f4595586d2dd4ff1fd13b17f5b88464d04e403) - **docs:** use consistent terms _(by Athan Reines)_
 -   [`241d973`](https://github.com/stdlib-js/stdlib/commit/241d9733f1c33c635badfb7f801125988c12b1e8) - **fix:** update dispatch table _(by Athan Reines)_
 -   [`b1fd89f`](https://github.com/stdlib-js/stdlib/commit/b1fd89faa0db6a1eb7b5f55b753130454ba0b7a3) - **refactor:** update import path _(by Athan Reines)_
 -   [`74e258d`](https://github.com/stdlib-js/stdlib/commit/74e258d30fcf441681f766870718974685e2495d) - **style:** use consistent markup _(by Athan Reines)_
