@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-04-26)
+## Unreleased (2025-05-03)
 
 <section class="features">
 
@@ -20,6 +20,7 @@
 
 ### Bug Fixes
 
+-   [`806644c`](https://github.com/stdlib-js/stdlib/commit/806644ce38213eafe7b7eb6e092c318e061df438) - restrict set of allowed data types
 -   [`cb86a56`](https://github.com/stdlib-js/stdlib/commit/cb86a569e143dbd29f18fe14414f4c3a06ee6320) - replace policy string with policy object
 -   [`241d973`](https://github.com/stdlib-js/stdlib/commit/241d9733f1c33c635badfb7f801125988c12b1e8) - update dispatch table
 
@@ -33,6 +34,8 @@
 
 <details>
 
+-   [`fe103d4`](https://github.com/stdlib-js/stdlib/commit/fe103d4bf958ba47417830ad7e6c5af347710baf) - **docs:** update note _(by Athan Reines)_
+-   [`806644c`](https://github.com/stdlib-js/stdlib/commit/806644ce38213eafe7b7eb6e092c318e061df438) - **fix:** restrict set of allowed data types _(by Athan Reines)_
 -   [`cb86a56`](https://github.com/stdlib-js/stdlib/commit/cb86a569e143dbd29f18fe14414f4c3a06ee6320) - **fix:** replace policy string with policy object _(by Athan Reines)_
 -   [`75f4595`](https://github.com/stdlib-js/stdlib/commit/75f4595586d2dd4ff1fd13b17f5b88464d04e403) - **docs:** use consistent terms _(by Athan Reines)_
 -   [`241d973`](https://github.com/stdlib-js/stdlib/commit/241d9733f1c33c635badfb7f801125988c12b1e8) - **fix:** update dispatch table _(by Athan Reines)_
