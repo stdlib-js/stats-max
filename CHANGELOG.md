@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-05-03)
+## Unreleased (2025-05-04)
 
 <section class="features">
 
@@ -34,6 +34,7 @@
 
 <details>
 
+-   [`aa39e18`](https://github.com/stdlib-js/stdlib/commit/aa39e18609c3db192370a71a386fd27a2cf90072) - **docs:** update note _(by Athan Reines)_
 -   [`fe103d4`](https://github.com/stdlib-js/stdlib/commit/fe103d4bf958ba47417830ad7e6c5af347710baf) - **docs:** update note _(by Athan Reines)_
 -   [`806644c`](https://github.com/stdlib-js/stdlib/commit/806644ce38213eafe7b7eb6e092c318e061df438) - **fix:** restrict set of allowed data types _(by Athan Reines)_
 -   [`cb86a56`](https://github.com/stdlib-js/stdlib/commit/cb86a569e143dbd29f18fe14414f4c3a06ee6320) - **fix:** replace policy string with policy object _(by Athan Reines)_
