@@ -34,6 +34,8 @@
 
 <details>
 
+-   [`e990142`](https://github.com/stdlib-js/stdlib/commit/e990142808bb6e6f20ab5ba41e55b6aab8ff89a3) - **docs:** update examples _(by Athan Reines)_
+-   [`475d08f`](https://github.com/stdlib-js/stdlib/commit/475d08f900ffe086e3c558603085d5ae846992e4) - **docs:** update examples _(by Athan Reines)_
 -   [`4b02cea`](https://github.com/stdlib-js/stdlib/commit/4b02cea59989ba8e55f8afdf33bcd10352de344a) - **docs:** update examples _(by Athan Reines)_
 -   [`38a86ef`](https://github.com/stdlib-js/stdlib/commit/38a86ef2b647f7c71259657ce2459a6fbac62da5) - **docs:** update examples _(by Athan Reines)_
 -   [`aa39e18`](https://github.com/stdlib-js/stdlib/commit/aa39e18609c3db192370a71a386fd27a2cf90072) - **docs:** update note _(by Athan Reines)_
