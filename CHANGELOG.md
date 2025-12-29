@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-12-09)
+## Unreleased (2025-12-29)
 
 <section class="features">
 
@@ -34,6 +34,7 @@
 
 <details>
 
+-   [`ff435c0`](https://github.com/stdlib-js/stdlib/commit/ff435c01d291e9ef75429a026fb221b729aa4a07) - **docs:** update dtype type _(by Athan Reines)_
 -   [`6c85fa1`](https://github.com/stdlib-js/stdlib/commit/6c85fa1533817b8b5e227ca4814c9fc63c23dec7) - **docs:** update return annotations to use ndarray instance notation _(by Athan Reines)_
 -   [`2cb9592`](https://github.com/stdlib-js/stdlib/commit/2cb9592c7057c1d5b1693343f01d740dd2e1d583) - **docs:** update examples in `stats/max` [(#8827)](https://github.com/stdlib-js/stdlib/pull/8827) _(by Sachin Pangal)_
 -   [`2192360`](https://github.com/stdlib-js/stdlib/commit/21923606030eb12678894c265023c6d265a89968) - **test:** explicitly serialize dtypes to strings _(by Athan Reines)_
