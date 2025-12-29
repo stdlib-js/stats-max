@@ -34,6 +34,7 @@
 
 <details>
 
+-   [`4b1efc6`](https://github.com/stdlib-js/stdlib/commit/4b1efc6552af03e1b7d260f6f10e7e042e7d68f6) - **docs:** update dtype type _(by Athan Reines)_
 -   [`ff435c0`](https://github.com/stdlib-js/stdlib/commit/ff435c01d291e9ef75429a026fb221b729aa4a07) - **docs:** update dtype type _(by Athan Reines)_
 -   [`6c85fa1`](https://github.com/stdlib-js/stdlib/commit/6c85fa1533817b8b5e227ca4814c9fc63c23dec7) - **docs:** update return annotations to use ndarray instance notation _(by Athan Reines)_
 -   [`2cb9592`](https://github.com/stdlib-js/stdlib/commit/2cb9592c7057c1d5b1693343f01d740dd2e1d583) - **docs:** update examples in `stats/max` [(#8827)](https://github.com/stdlib-js/stdlib/pull/8827) _(by Sachin Pangal)_
