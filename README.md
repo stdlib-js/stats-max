@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import max from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-max@deno/mod.js';
+import max from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-max@v0.1.0-deno/mod.js';
 ```
 
 #### max( x\[, options] )
@@ -198,7 +198,7 @@ The method accepts the following options:
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-uniform@deno/mod.js';
 import getDType from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-dtype@deno/mod.js';
 import ndarray2array from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-to-array@deno/mod.js';
-import max from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-max@deno/mod.js';
+import max from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-max@v0.1.0-deno/mod.js';
 
 // Generate an array of random numbers:
 var x = uniform( [ 5, 5 ], 0.0, 20.0 );
